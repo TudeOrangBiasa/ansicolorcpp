@@ -12,7 +12,7 @@ This project demonstrates the usage of ANSI escape codes to print colored text i
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/TudeOrangBiasa/ansiColorCPP.git
+    git clone https://github.com/TudeOrangBiasa/ansicolorcpp.git
     cd ansiColorCPP
     ```
 
